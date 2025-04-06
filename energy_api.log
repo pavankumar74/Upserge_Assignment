@@ -1,0 +1,1128 @@
+2025-04-06 00:59:59,032 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 00:59:59,033 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:00:35,921 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:00:35,922 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:02:17,137 - ERROR - Energy analysis failed: 'EnvironmentExecutor' object has no attribute 'get_fallback_energy_data'
+2025-04-06 01:14:42,384 - ERROR - Task execution failed: process_energy_analysis() missing 1 required positional argument: 'self'
+2025-04-06 01:15:03,124 - ERROR - Task execution failed: process_energy_analysis() missing 1 required positional argument: 'self'
+2025-04-06 01:15:18,400 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\ai_headlines.txt
+2025-04-06 01:15:18,402 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:15:18,403 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:15:30,488 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:15:30,490 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:15:35,191 - ERROR - Task execution failed: process_energy_analysis() missing 1 required positional argument: 'self'
+2025-04-06 01:16:26,306 - ERROR - Task execution failed: process_energy_analysis() missing 1 required positional argument: 'self'
+2025-04-06 01:16:40,978 - INFO - Using EIA API key: 7gbqP...
+2025-04-06 01:16:40,979 - INFO - Fetching data from EIA API: https://api.eia.gov/v2/electricity/generation/data
+2025-04-06 01:16:43,349 - ERROR - API request failed: 500
+2025-04-06 01:16:43,349 - ERROR - Response: {"error":"Not found.","code":404}
+2025-04-06 01:16:43,350 - ERROR - Browser task failed: API request failed with status 500
+2025-04-06 01:16:43,350 - ERROR - Energy analysis failed: 'EnvironmentExecutor' object has no attribute 'get_fallback_data'
+2025-04-06 01:18:31,456 - INFO - Using EIA API key: 7gbqP...
+2025-04-06 01:18:31,457 - INFO - Fetching data from EIA API: https://api.eia.gov/v2/electricity/generation/data
+2025-04-06 01:18:33,122 - ERROR - API request failed: 500
+2025-04-06 01:18:33,123 - ERROR - Response: {"error":"Not found.","code":404}
+2025-04-06 01:18:33,123 - INFO - Using fallback energy data
+2025-04-06 01:18:33,131 - ERROR - Energy analysis failed: 'monthly_data'
+2025-04-06 01:19:43,721 - INFO - Using EIA API key: 7gbqP...
+2025-04-06 01:19:43,722 - INFO - Fetching data from EIA API: https://api.eia.gov/v2/electricity/generation/data
+2025-04-06 01:19:45,316 - ERROR - API request failed: 500
+2025-04-06 01:19:45,317 - ERROR - Response: {"error":"Not found.","code":404}
+2025-04-06 01:19:45,318 - INFO - Using fallback energy data
+2025-04-06 01:19:45,319 - ERROR - Failed to analyze energy data: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-04-06 01:20:40,923 - INFO - Using EIA API key: 7gbqP...
+2025-04-06 01:20:40,923 - INFO - Fetching data from EIA API: https://api.eia.gov/v2/electricity/generation/data
+2025-04-06 01:20:42,313 - ERROR - API request failed: 500
+2025-04-06 01:20:42,314 - ERROR - Response: {"error":"Not found.","code":404}
+2025-04-06 01:20:42,314 - INFO - Using fallback energy data
+2025-04-06 01:20:42,317 - ERROR - Failed to analyze energy data: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-04-06 01:21:02,615 - INFO - Using EIA API key: 7gbqP...
+2025-04-06 01:21:02,617 - INFO - Fetching data from EIA API: https://api.eia.gov/v2/electricity/generation/data
+2025-04-06 01:21:04,164 - ERROR - API request failed: 500
+2025-04-06 01:21:04,164 - ERROR - Response: {"error":"Not found.","code":404}
+2025-04-06 01:21:04,165 - INFO - Using fallback energy data
+2025-04-06 01:21:04,166 - ERROR - Failed to analyze energy data: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-04-06 01:23:20,714 - INFO - Using EIA API key: 7gbqP...
+2025-04-06 01:23:20,715 - INFO - Fetching data from EIA API: https://api.eia.gov/v2/electricity/generation/data
+2025-04-06 01:23:22,412 - ERROR - API request failed: 500
+2025-04-06 01:23:22,412 - ERROR - Response: {"error":"Not found.","code":404}
+2025-04-06 01:23:22,413 - INFO - Using fallback energy data
+2025-04-06 01:23:22,415 - ERROR - Failed to analyze energy data: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-04-06 01:25:49,811 - INFO - Using EIA API key: 7gbqP...
+2025-04-06 01:25:49,812 - INFO - Fetching data from EIA API: https://api.eia.gov/v2/electricity/generation/data
+2025-04-06 01:25:51,504 - ERROR - API request failed: 500
+2025-04-06 01:25:51,505 - ERROR - Response: {"error":"Not found.","code":404}
+2025-04-06 01:25:51,506 - INFO - Using fallback energy data
+2025-04-06 01:25:51,507 - ERROR - Failed to analyze energy data: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-04-06 01:26:04,459 - INFO - Attempting to fetch data from IRENA API...
+2025-04-06 01:26:05,121 - ERROR - Error fetching renewable energy data: HTTPSConnectionPool(host='api.irena.org', port=443): Max retries exceeded with url: /api/Statistics?apikey=default_key&technology=Solar&technology=Wind&technology=Hydro&year=2023 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)')))
+2025-04-06 01:26:05,122 - INFO - Using fallback energy data
+2025-04-06 01:26:07,049 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:26:07,053 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:26:07,056 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:26:07,058 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:26:07,060 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:26:07,061 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:28:22,810 - INFO - Attempting to fetch data from IRENA API...
+2025-04-06 01:28:24,325 - INFO - IRENA API failed, trying NREL API...
+2025-04-06 01:28:35,638 - INFO - Attempting to fetch data from EIA API...
+2025-04-06 01:28:37,266 - INFO - EIA API failed, trying OpenEnergyData API...
+2025-04-06 01:28:37,327 - ERROR - Request Error: HTTPSConnectionPool(host='openenergydata.org', port=443): Max retries exceeded with url: /api/v1/renewable (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002019A3C3F10>: Failed to resolve 'openenergydata.org' ([Errno 11001] getaddrinfo failed)"))
+2025-04-06 01:28:37,328 - INFO - Using fallback energy data
+2025-04-06 01:28:37,854 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:28:37,858 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:28:37,859 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:28:37,862 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:28:37,863 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:28:37,866 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:34:30,157 - INFO - Attempting to fetch data from EIA API...
+2025-04-06 01:34:39,788 - ERROR - EIA API request failed: HTTPSConnectionPool(host='api.eia.gov', port=443): Max retries exceeded with url: /v2/electricity/rto/fuel-type-data/data/?frequency=monthly&data%5B0%5D=generation&facets%5Bfueltype%5D%5B%5D=SUN&facets%5Bfueltype%5D%5B%5D=WND&facets%5Bfueltype%5D%5B%5D=WAT&start=2023-01&end=2023-12&sort%5B0%5D%5Bcolumn%5D=period&sort%5B0%5D%5Bdirection%5D=desc (Caused by ResponseError('too many 500 error responses'))
+2025-04-06 01:34:39,789 - INFO - Trying NREL API...
+2025-04-06 01:35:12,002 - ERROR - NREL API request failed: 'EnvironmentExecutor' object has no attribute '_process_nrel_data'
+2025-04-06 01:35:12,003 - WARNING - All API attempts failed, using fallback data
+2025-04-06 01:35:12,562 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:35:12,565 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:35:12,567 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:35:12,569 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:35:12,572 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:35:12,575 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:36:30,824 - INFO - Attempting to fetch data from EIA API...
+2025-04-06 01:36:39,188 - ERROR - EIA API request failed: HTTPSConnectionPool(host='api.eia.gov', port=443): Max retries exceeded with url: /v2/electricity/rto/fuel-type-data/data/?frequency=monthly&data%5B0%5D=generation&facets%5Bfueltype%5D%5B%5D=SUN&facets%5Bfueltype%5D%5B%5D=WND&facets%5Bfueltype%5D%5B%5D=WAT&start=2023-01&end=2023-12&sort%5B0%5D%5Bcolumn%5D=period&sort%5B0%5D%5Bdirection%5D=desc (Caused by ResponseError('too many 500 error responses'))
+2025-04-06 01:36:39,189 - INFO - Trying NREL API...
+2025-04-06 01:37:01,866 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:37:01,871 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:37:01,874 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:37:01,877 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:37:01,880 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:37:01,883 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:38:53,552 - INFO - Attempting to fetch data from EIA API...
+2025-04-06 01:38:59,888 - ERROR - EIA API request failed: HTTPSConnectionPool(host='api.eia.gov', port=443): Max retries exceeded with url: /v2/electricity/rto/fuel-type-data/data/?frequency=monthly&data%5B0%5D=generation&facets%5Bfueltype%5D%5B%5D=SUN&facets%5Bfueltype%5D%5B%5D=WND&facets%5Bfueltype%5D%5B%5D=WAT&start=2023-01&end=2023-12&sort%5B0%5D%5Bcolumn%5D=period&sort%5B0%5D%5Bdirection%5D=desc (Caused by ResponseError('too many 500 error responses'))
+2025-04-06 01:38:59,889 - INFO - Trying NREL API...
+2025-04-06 01:39:15,784 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:39:15,788 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:39:15,790 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:39:15,792 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:39:15,793 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:39:15,796 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:40:27,896 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\ai_headlines.txt
+2025-04-06 01:40:27,900 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:40:27,901 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:40:46,901 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\ai_headlines.txt
+2025-04-06 01:40:46,902 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:40:46,903 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:40:58,386 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:40:58,386 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:41:15,021 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:41:15,021 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:41:50,108 - INFO - Attempting to fetch data from EIA API...
+2025-04-06 01:41:56,530 - ERROR - EIA API request failed: HTTPSConnectionPool(host='api.eia.gov', port=443): Max retries exceeded with url: /v2/electricity/rto/fuel-type-data/data/?frequency=monthly&data%5B0%5D=generation&facets%5Bfueltype%5D%5B%5D=SUN&facets%5Bfueltype%5D%5B%5D=WND&facets%5Bfueltype%5D%5B%5D=WAT&start=2023-01&end=2023-12&sort%5B0%5D%5Bcolumn%5D=period&sort%5B0%5D%5Bdirection%5D=desc (Caused by ResponseError('too many 500 error responses'))
+2025-04-06 01:41:56,530 - INFO - Trying NREL API...
+2025-04-06 01:43:11,207 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:43:11,212 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:43:11,215 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:43:11,217 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:43:11,220 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:43:11,222 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 01:43:57,071 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:43:57,074 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:47:21,668 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/reviews.php3
+2025-04-06 01:47:41,932 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:47:41,933 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:49:29,436 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/news.php3?sTag=Review
+2025-04-06 01:49:51,858 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:49:51,860 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:51:56,501 - ERROR - Error fetching smartphone reviews: 'EnvironmentExecutor' object has no attribute 'headers'
+2025-04-06 01:51:56,552 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:51:56,552 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:53:30,204 - INFO - ====== WebDriver manager ======
+2025-04-06 01:53:34,459 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 01:53:35,032 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 01:53:35,421 - INFO - There is no [win64] chromedriver "135.0.7049.42" for browser google-chrome "135.0.7049" in cache
+2025-04-06 01:53:35,422 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 01:53:36,016 - INFO - WebDriver version 135.0.7049.42 selected
+2025-04-06 01:53:36,023 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.42/win32/chromedriver-win32.zip
+2025-04-06 01:53:36,025 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.42/win32/chromedriver-win32.zip
+2025-04-06 01:53:36,750 - INFO - Driver downloading response is 200
+2025-04-06 01:53:39,433 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 01:53:41,077 - INFO - Driver has been saved in cache [C:\Users\pavan\.wdm\drivers\chromedriver\win64\135.0.7049.42]
+2025-04-06 01:53:43,577 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/reviews.php3
+2025-04-06 01:54:16,826 - WARNING - Error processing review: Message: stale element reference: stale element not found
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00505413+60691]
+	GetHandleVerifier [0x00505454+60756]
+	(No symbol) [0x00330693]
+	(No symbol) [0x00342091]
+	(No symbol) [0x00341170]
+	(No symbol) [0x003378A3]
+	(No symbol) [0x00335DAA]
+	(No symbol) [0x003390EA]
+	(No symbol) [0x00339167]
+	(No symbol) [0x00377EF4]
+	(No symbol) [0x003789FB]
+	(No symbol) [0x0036DDA1]
+	(No symbol) [0x0039D0A4]
+	(No symbol) [0x0036DCC4]
+	(No symbol) [0x0039D2D4]
+	(No symbol) [0x003BE6FB]
+	(No symbol) [0x0039CE56]
+	(No symbol) [0x0036C5F3]
+	(No symbol) [0x0036D444]
+	GetHandleVerifier [0x0074BBC3+2446531]
+	GetHandleVerifier [0x00747198+2427544]
+	GetHandleVerifier [0x00762D5E+2541150]
+	GetHandleVerifier [0x0051C3C5+154821]
+	GetHandleVerifier [0x00522BED+181485]
+	GetHandleVerifier [0x0050CC48+91464]
+	GetHandleVerifier [0x0050CDF0+91888]
+	GetHandleVerifier [0x004F7980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 01:54:16,839 - WARNING - Error processing review: Message: stale element reference: stale element not found
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00505413+60691]
+	GetHandleVerifier [0x00505454+60756]
+	(No symbol) [0x00330693]
+	(No symbol) [0x00342091]
+	(No symbol) [0x00341170]
+	(No symbol) [0x003378A3]
+	(No symbol) [0x00335DAA]
+	(No symbol) [0x003390EA]
+	(No symbol) [0x00339167]
+	(No symbol) [0x00377EF4]
+	(No symbol) [0x003789FB]
+	(No symbol) [0x0036DDA1]
+	(No symbol) [0x0039D0A4]
+	(No symbol) [0x0036DCC4]
+	(No symbol) [0x0039D2D4]
+	(No symbol) [0x003BE6FB]
+	(No symbol) [0x0039CE56]
+	(No symbol) [0x0036C5F3]
+	(No symbol) [0x0036D444]
+	GetHandleVerifier [0x0074BBC3+2446531]
+	GetHandleVerifier [0x00747198+2427544]
+	GetHandleVerifier [0x00762D5E+2541150]
+	GetHandleVerifier [0x0051C3C5+154821]
+	GetHandleVerifier [0x00522BED+181485]
+	GetHandleVerifier [0x0050CC48+91464]
+	GetHandleVerifier [0x0050CDF0+91888]
+	GetHandleVerifier [0x004F7980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 01:54:16,849 - WARNING - Error processing review: Message: stale element reference: stale element not found
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00505413+60691]
+	GetHandleVerifier [0x00505454+60756]
+	(No symbol) [0x00330693]
+	(No symbol) [0x00342091]
+	(No symbol) [0x00341170]
+	(No symbol) [0x003378A3]
+	(No symbol) [0x00335DAA]
+	(No symbol) [0x003390EA]
+	(No symbol) [0x00339167]
+	(No symbol) [0x00377EF4]
+	(No symbol) [0x003789FB]
+	(No symbol) [0x0036DDA1]
+	(No symbol) [0x0039D0A4]
+	(No symbol) [0x0036DCC4]
+	(No symbol) [0x0039D2D4]
+	(No symbol) [0x003BE6FB]
+	(No symbol) [0x0039CE56]
+	(No symbol) [0x0036C5F3]
+	(No symbol) [0x0036D444]
+	GetHandleVerifier [0x0074BBC3+2446531]
+	GetHandleVerifier [0x00747198+2427544]
+	GetHandleVerifier [0x00762D5E+2541150]
+	GetHandleVerifier [0x0051C3C5+154821]
+	GetHandleVerifier [0x00522BED+181485]
+	GetHandleVerifier [0x0050CC48+91464]
+	GetHandleVerifier [0x0050CDF0+91888]
+	GetHandleVerifier [0x004F7980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 01:54:16,861 - WARNING - Error processing review: Message: stale element reference: stale element not found
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00505413+60691]
+	GetHandleVerifier [0x00505454+60756]
+	(No symbol) [0x00330693]
+	(No symbol) [0x00342091]
+	(No symbol) [0x00341170]
+	(No symbol) [0x003378A3]
+	(No symbol) [0x00335DAA]
+	(No symbol) [0x003390EA]
+	(No symbol) [0x00339167]
+	(No symbol) [0x00377EF4]
+	(No symbol) [0x003789FB]
+	(No symbol) [0x0036DDA1]
+	(No symbol) [0x0039D0A4]
+	(No symbol) [0x0036DCC4]
+	(No symbol) [0x0039D2D4]
+	(No symbol) [0x003BE6FB]
+	(No symbol) [0x0039CE56]
+	(No symbol) [0x0036C5F3]
+	(No symbol) [0x0036D444]
+	GetHandleVerifier [0x0074BBC3+2446531]
+	GetHandleVerifier [0x00747198+2427544]
+	GetHandleVerifier [0x00762D5E+2541150]
+	GetHandleVerifier [0x0051C3C5+154821]
+	GetHandleVerifier [0x00522BED+181485]
+	GetHandleVerifier [0x0050CC48+91464]
+	GetHandleVerifier [0x0050CDF0+91888]
+	GetHandleVerifier [0x004F7980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 01:54:19,610 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:54:19,611 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:55:45,349 - INFO - ====== WebDriver manager ======
+2025-04-06 01:55:47,795 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 01:55:48,198 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 01:55:48,445 - INFO - Driver [C:\Users\pavan\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 01:55:50,127 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/reviews.php3
+2025-04-06 01:59:18,122 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 01:59:18,127 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:01:10,905 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\ai_headlines.txt
+2025-04-06 02:01:10,907 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:01:10,907 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:01:28,630 - INFO - ====== WebDriver manager ======
+2025-04-06 02:01:30,920 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:01:31,320 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:01:31,590 - INFO - Driver [C:\Users\pavan\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 02:01:33,350 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/reviews.php3
+2025-04-06 02:05:32,237 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:05:32,241 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:06:04,510 - INFO - Attempting to fetch data from EIA API...
+2025-04-06 02:06:11,142 - ERROR - EIA API request failed: HTTPSConnectionPool(host='api.eia.gov', port=443): Max retries exceeded with url: /v2/electricity/rto/fuel-type-data/data/?frequency=monthly&data%5B0%5D=generation&facets%5Bfueltype%5D%5B%5D=SUN&facets%5Bfueltype%5D%5B%5D=WND&facets%5Bfueltype%5D%5B%5D=WAT&start=2023-01&end=2023-12&sort%5B0%5D%5Bcolumn%5D=period&sort%5B0%5D%5Bdirection%5D=desc (Caused by ResponseError('too many 500 error responses'))
+2025-04-06 02:06:11,143 - INFO - Trying NREL API...
+2025-04-06 02:06:33,669 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 02:06:33,672 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 02:06:33,675 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 02:06:33,678 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 02:06:33,680 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 02:06:33,683 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 02:09:18,038 - INFO - ====== WebDriver manager ======
+2025-04-06 02:09:20,470 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:09:21,002 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:09:21,613 - INFO - Driver [C:\Users\pavan\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 02:09:24,164 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/reviews.php3
+2025-04-06 02:09:28,363 - WARNING - Error collecting review data: Message: no such element: Unable to locate element: {"method":"css selector","selector":".preview-content"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:09:28,491 - WARNING - Error collecting review data: Message: no such element: Unable to locate element: {"method":"css selector","selector":".preview-content"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:09:28,604 - WARNING - Error collecting review data: Message: no such element: Unable to locate element: {"method":"css selector","selector":".preview-content"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:09:29,334 - WARNING - Error collecting review data: Message: no such element: Unable to locate element: {"method":"css selector","selector":".preview-content"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:09:29,535 - WARNING - Error collecting review data: Message: no such element: Unable to locate element: {"method":"css selector","selector":".preview-content"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:09:33,393 - WARNING - No reviews found, using fallback data
+2025-04-06 02:09:33,407 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:09:33,407 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:10:53,130 - INFO - ====== WebDriver manager ======
+2025-04-06 02:10:55,359 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:10:55,930 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:10:56,438 - INFO - Driver [C:\Users\pavan\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 02:10:58,120 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/reviews.php3
+2025-04-06 02:11:56,184 - WARNING - Error processing review page: Message: stale element reference: stale element not found
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01062091]
+	(No symbol) [0x01061170]
+	(No symbol) [0x010578A3]
+	(No symbol) [0x01055DAA]
+	(No symbol) [0x010590EA]
+	(No symbol) [0x01059167]
+	(No symbol) [0x01097EF4]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:11:56,194 - WARNING - Error processing review page: Message: stale element reference: stale element not found
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01062091]
+	(No symbol) [0x01061170]
+	(No symbol) [0x010578A3]
+	(No symbol) [0x01055DAA]
+	(No symbol) [0x010590EA]
+	(No symbol) [0x01059167]
+	(No symbol) [0x01097EF4]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:11:56,207 - WARNING - Error processing review page: Message: stale element reference: stale element not found
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01062091]
+	(No symbol) [0x01061170]
+	(No symbol) [0x010578A3]
+	(No symbol) [0x01055DAA]
+	(No symbol) [0x010590EA]
+	(No symbol) [0x01059167]
+	(No symbol) [0x01097EF4]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:11:56,219 - WARNING - Error processing review page: Message: stale element reference: stale element not found
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01062091]
+	(No symbol) [0x01061170]
+	(No symbol) [0x010578A3]
+	(No symbol) [0x01055DAA]
+	(No symbol) [0x010590EA]
+	(No symbol) [0x01059167]
+	(No symbol) [0x01097EF4]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:11:58,855 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:11:58,856 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:13:09,407 - ERROR - Error fetching smartphone reviews: name 'Service' is not defined
+2025-04-06 02:13:09,460 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:13:09,460 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:14:08,927 - INFO - ====== WebDriver manager ======
+2025-04-06 02:14:10,953 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:14:11,513 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:14:12,024 - INFO - Driver [C:\Users\pavan\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 02:14:13,491 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/reviews.php3
+2025-04-06 02:14:19,542 - WARNING - Error getting review link: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h3, .article-info-name"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:14:19,824 - WARNING - Error getting review link: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h3, .article-info-name"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:14:19,875 - WARNING - Error getting review link: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h3, .article-info-name"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:14:19,914 - WARNING - Error getting review link: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h3, .article-info-name"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:14:19,954 - WARNING - Error getting review link: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h3, .article-info-name"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:14:22,236 - WARNING - No reviews found, using fallback data
+2025-04-06 02:14:22,244 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:14:22,244 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:15:32,890 - INFO - ====== WebDriver manager ======
+2025-04-06 02:15:35,028 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:15:35,378 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:15:35,685 - INFO - Driver [C:\Users\pavan\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 02:15:37,129 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/reviews.php3
+2025-04-06 02:15:48,310 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:15:48,310 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:17:05,806 - INFO - ====== WebDriver manager ======
+2025-04-06 02:17:07,915 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:17:08,256 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:17:11,017 - INFO - Driver [C:\Users\pavan\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 02:17:12,575 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/reviews.php3
+2025-04-06 02:17:16,126 - WARNING - Error processing review element: Message: no such element: Unable to locate element: {"method":"css selector","selector":".rating-cell"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:17:16,202 - WARNING - Error processing review element: Message: no such element: Unable to locate element: {"method":"css selector","selector":".rating-cell"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:17:16,267 - WARNING - Error processing review element: Message: no such element: Unable to locate element: {"method":"css selector","selector":".rating-cell"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:17:16,328 - WARNING - Error processing review element: Message: no such element: Unable to locate element: {"method":"css selector","selector":".rating-cell"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:17:16,385 - WARNING - Error processing review element: Message: no such element: Unable to locate element: {"method":"css selector","selector":".rating-cell"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225413+60691]
+	GetHandleVerifier [0x01225454+60756]
+	(No symbol) [0x01050693]
+	(No symbol) [0x01098660]
+	(No symbol) [0x010989FB]
+	(No symbol) [0x0108DDA1]
+	(No symbol) [0x010BD0A4]
+	(No symbol) [0x0108DCC4]
+	(No symbol) [0x010BD2D4]
+	(No symbol) [0x010DE6FB]
+	(No symbol) [0x010BCE56]
+	(No symbol) [0x0108C5F3]
+	(No symbol) [0x0108D444]
+	GetHandleVerifier [0x0146BBC3+2446531]
+	GetHandleVerifier [0x01467198+2427544]
+	GetHandleVerifier [0x01482D5E+2541150]
+	GetHandleVerifier [0x0123C3C5+154821]
+	GetHandleVerifier [0x01242BED+181485]
+	GetHandleVerifier [0x0122CC48+91464]
+	GetHandleVerifier [0x0122CDF0+91888]
+	GetHandleVerifier [0x01217980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:17:18,672 - WARNING - No reviews found, using fallback data
+2025-04-06 02:17:18,680 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:17:18,681 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:18:41,477 - INFO - ====== WebDriver manager ======
+2025-04-06 02:18:43,869 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:18:44,310 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:18:44,617 - INFO - Driver [C:\Users\pavan\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 02:18:46,880 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/reviews.php3
+2025-04-06 02:18:48,986 - WARNING - Error processing review element: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h4"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00E35413+60691]
+	GetHandleVerifier [0x00E35454+60756]
+	(No symbol) [0x00C60693]
+	(No symbol) [0x00CA8660]
+	(No symbol) [0x00CA89FB]
+	(No symbol) [0x00C9DDA1]
+	(No symbol) [0x00CCD0A4]
+	(No symbol) [0x00C9DCC4]
+	(No symbol) [0x00CCD2D4]
+	(No symbol) [0x00CEE6FB]
+	(No symbol) [0x00CCCE56]
+	(No symbol) [0x00C9C5F3]
+	(No symbol) [0x00C9D444]
+	GetHandleVerifier [0x0107BBC3+2446531]
+	GetHandleVerifier [0x01077198+2427544]
+	GetHandleVerifier [0x01092D5E+2541150]
+	GetHandleVerifier [0x00E4C3C5+154821]
+	GetHandleVerifier [0x00E52BED+181485]
+	GetHandleVerifier [0x00E3CC48+91464]
+	GetHandleVerifier [0x00E3CDF0+91888]
+	GetHandleVerifier [0x00E27980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:18:51,218 - WARNING - No reviews found, using fallback data
+2025-04-06 02:18:51,232 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:18:51,232 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:19:45,504 - INFO - ====== WebDriver manager ======
+2025-04-06 02:19:47,718 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:19:48,144 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:19:48,615 - INFO - Driver [C:\Users\pavan\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 02:19:50,123 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/reviews.php3
+2025-04-06 02:19:55,662 - WARNING - Error processing review element: Message: no such element: Unable to locate element: {"method":"css selector","selector":"a.review-item-link"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00E35413+60691]
+	GetHandleVerifier [0x00E35454+60756]
+	(No symbol) [0x00C60693]
+	(No symbol) [0x00CA8660]
+	(No symbol) [0x00CA89FB]
+	(No symbol) [0x00C9DDA1]
+	(No symbol) [0x00CCD0A4]
+	(No symbol) [0x00C9DCC4]
+	(No symbol) [0x00CCD2D4]
+	(No symbol) [0x00CEE6FB]
+	(No symbol) [0x00CCCE56]
+	(No symbol) [0x00C9C5F3]
+	(No symbol) [0x00C9D444]
+	GetHandleVerifier [0x0107BBC3+2446531]
+	GetHandleVerifier [0x01077198+2427544]
+	GetHandleVerifier [0x01092D5E+2541150]
+	GetHandleVerifier [0x00E4C3C5+154821]
+	GetHandleVerifier [0x00E52BED+181485]
+	GetHandleVerifier [0x00E3CC48+91464]
+	GetHandleVerifier [0x00E3CDF0+91888]
+	GetHandleVerifier [0x00E27980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:19:55,749 - WARNING - Error processing review element: Message: no such element: Unable to locate element: {"method":"css selector","selector":"a.review-item-link"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00E35413+60691]
+	GetHandleVerifier [0x00E35454+60756]
+	(No symbol) [0x00C60693]
+	(No symbol) [0x00CA8660]
+	(No symbol) [0x00CA89FB]
+	(No symbol) [0x00C9DDA1]
+	(No symbol) [0x00CCD0A4]
+	(No symbol) [0x00C9DCC4]
+	(No symbol) [0x00CCD2D4]
+	(No symbol) [0x00CEE6FB]
+	(No symbol) [0x00CCCE56]
+	(No symbol) [0x00C9C5F3]
+	(No symbol) [0x00C9D444]
+	GetHandleVerifier [0x0107BBC3+2446531]
+	GetHandleVerifier [0x01077198+2427544]
+	GetHandleVerifier [0x01092D5E+2541150]
+	GetHandleVerifier [0x00E4C3C5+154821]
+	GetHandleVerifier [0x00E52BED+181485]
+	GetHandleVerifier [0x00E3CC48+91464]
+	GetHandleVerifier [0x00E3CDF0+91888]
+	GetHandleVerifier [0x00E27980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:19:55,802 - WARNING - Error processing review element: Message: no such element: Unable to locate element: {"method":"css selector","selector":"a.review-item-link"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00E35413+60691]
+	GetHandleVerifier [0x00E35454+60756]
+	(No symbol) [0x00C60693]
+	(No symbol) [0x00CA8660]
+	(No symbol) [0x00CA89FB]
+	(No symbol) [0x00C9DDA1]
+	(No symbol) [0x00CCD0A4]
+	(No symbol) [0x00C9DCC4]
+	(No symbol) [0x00CCD2D4]
+	(No symbol) [0x00CEE6FB]
+	(No symbol) [0x00CCCE56]
+	(No symbol) [0x00C9C5F3]
+	(No symbol) [0x00C9D444]
+	GetHandleVerifier [0x0107BBC3+2446531]
+	GetHandleVerifier [0x01077198+2427544]
+	GetHandleVerifier [0x01092D5E+2541150]
+	GetHandleVerifier [0x00E4C3C5+154821]
+	GetHandleVerifier [0x00E52BED+181485]
+	GetHandleVerifier [0x00E3CC48+91464]
+	GetHandleVerifier [0x00E3CDF0+91888]
+	GetHandleVerifier [0x00E27980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:19:55,854 - WARNING - Error processing review element: Message: no such element: Unable to locate element: {"method":"css selector","selector":"a.review-item-link"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00E35413+60691]
+	GetHandleVerifier [0x00E35454+60756]
+	(No symbol) [0x00C60693]
+	(No symbol) [0x00CA8660]
+	(No symbol) [0x00CA89FB]
+	(No symbol) [0x00C9DDA1]
+	(No symbol) [0x00CCD0A4]
+	(No symbol) [0x00C9DCC4]
+	(No symbol) [0x00CCD2D4]
+	(No symbol) [0x00CEE6FB]
+	(No symbol) [0x00CCCE56]
+	(No symbol) [0x00C9C5F3]
+	(No symbol) [0x00C9D444]
+	GetHandleVerifier [0x0107BBC3+2446531]
+	GetHandleVerifier [0x01077198+2427544]
+	GetHandleVerifier [0x01092D5E+2541150]
+	GetHandleVerifier [0x00E4C3C5+154821]
+	GetHandleVerifier [0x00E52BED+181485]
+	GetHandleVerifier [0x00E3CC48+91464]
+	GetHandleVerifier [0x00E3CDF0+91888]
+	GetHandleVerifier [0x00E27980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:19:56,221 - WARNING - Error processing review element: Message: no such element: Unable to locate element: {"method":"css selector","selector":"a.review-item-link"}
+  (Session info: chrome=135.0.7049.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00E35413+60691]
+	GetHandleVerifier [0x00E35454+60756]
+	(No symbol) [0x00C60693]
+	(No symbol) [0x00CA8660]
+	(No symbol) [0x00CA89FB]
+	(No symbol) [0x00C9DDA1]
+	(No symbol) [0x00CCD0A4]
+	(No symbol) [0x00C9DCC4]
+	(No symbol) [0x00CCD2D4]
+	(No symbol) [0x00CEE6FB]
+	(No symbol) [0x00CCCE56]
+	(No symbol) [0x00C9C5F3]
+	(No symbol) [0x00C9D444]
+	GetHandleVerifier [0x0107BBC3+2446531]
+	GetHandleVerifier [0x01077198+2427544]
+	GetHandleVerifier [0x01092D5E+2541150]
+	GetHandleVerifier [0x00E4C3C5+154821]
+	GetHandleVerifier [0x00E52BED+181485]
+	GetHandleVerifier [0x00E3CC48+91464]
+	GetHandleVerifier [0x00E3CDF0+91888]
+	GetHandleVerifier [0x00E27980+4736]
+	BaseThreadInitThunk [0x76E35D49+25]
+	RtlInitializeExceptionChain [0x77E3CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77E3CE91+561]
+
+2025-04-06 02:19:58,483 - WARNING - No reviews found, using fallback data
+2025-04-06 02:19:58,490 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:19:58,490 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:20:31,608 - INFO - ====== WebDriver manager ======
+2025-04-06 02:20:33,583 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:20:34,184 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 02:20:34,492 - INFO - Driver [C:\Users\pavan\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 02:20:36,072 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/reviews.php3
+2025-04-06 02:20:47,380 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:20:47,381 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 02:21:23,178 - INFO - Attempting to fetch data from EIA API...
+2025-04-06 02:21:30,029 - ERROR - EIA API request failed: HTTPSConnectionPool(host='api.eia.gov', port=443): Max retries exceeded with url: /v2/electricity/rto/fuel-type-data/data/?frequency=monthly&data%5B0%5D=generation&facets%5Bfueltype%5D%5B%5D=SUN&facets%5Bfueltype%5D%5B%5D=WND&facets%5Bfueltype%5D%5B%5D=WAT&start=2023-01&end=2023-12&sort%5B0%5D%5Bcolumn%5D=period&sort%5B0%5D%5Bdirection%5D=desc (Caused by ResponseError('too many 500 error responses'))
+2025-04-06 02:21:30,031 - INFO - Trying NREL API...
+2025-04-06 02:22:08,034 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 02:22:08,038 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 02:22:08,041 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 02:22:08,045 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 02:22:08,047 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 02:22:08,052 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 14:43:28,106 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\ai_headlines.txt
+2025-04-06 14:43:28,109 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 14:43:28,109 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 14:43:48,877 - INFO - ====== WebDriver manager ======
+2025-04-06 14:43:51,222 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 14:43:51,658 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 14:43:52,034 - INFO - Driver [C:\Users\pavan\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 14:43:54,341 - INFO - Attempting to fetch reviews from: https://www.gsmarena.com/reviews.php3
+2025-04-06 14:44:04,957 - INFO - Successfully saved data to C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 14:44:04,957 - INFO - Report generated: C:\Users\pavan\OneDrive\Desktop\Upserg Assignment\report.txt
+2025-04-06 14:44:44,998 - INFO - Attempting to fetch data from EIA API...
+2025-04-06 14:44:52,789 - ERROR - EIA API request failed: HTTPSConnectionPool(host='api.eia.gov', port=443): Max retries exceeded with url: /v2/electricity/rto/fuel-type-data/data/?frequency=monthly&data%5B0%5D=generation&facets%5Bfueltype%5D%5B%5D=SUN&facets%5Bfueltype%5D%5B%5D=WND&facets%5Bfueltype%5D%5B%5D=WAT&start=2023-01&end=2023-12&sort%5B0%5D%5Bcolumn%5D=period&sort%5B0%5D%5Bdirection%5D=desc (Caused by ResponseError('too many 500 error responses'))
+2025-04-06 14:44:52,789 - INFO - Trying NREL API...
+2025-04-06 14:45:25,548 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 14:45:25,553 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 14:45:25,556 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 14:45:25,560 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 14:45:25,563 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-06 14:45:25,567 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.

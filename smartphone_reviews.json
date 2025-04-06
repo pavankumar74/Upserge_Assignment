@@ -1,0 +1,83 @@
+{
+  "processed_reviews": [
+    {
+      "title": "Infinix Note 50 Pro+ review",
+      "overall_score": 2,
+      "summary": {
+        "pros": [
+          "Excellent performance",
+          "Great camera",
+          "Premium design"
+        ],
+        "cons": [
+          "Premium price",
+          "Battery life could be better"
+        ]
+      }
+    },
+    {
+      "title": "Samsung Galaxy A26 review",
+      "overall_score": 2,
+      "summary": {
+        "pros": [
+          "Excellent performance",
+          "Great camera",
+          "Premium design"
+        ],
+        "cons": [
+          "Premium price",
+          "Battery life could be better"
+        ]
+      }
+    },
+    {
+      "title": "Poco F7 Pro review",
+      "overall_score": 2,
+      "summary": {
+        "pros": [
+          "Excellent performance",
+          "Great camera",
+          "Premium design"
+        ],
+        "cons": [
+          "Premium price",
+          "Battery life could be better"
+        ]
+      }
+    },
+    {
+      "title": "Poco F7 Ultra review",
+      "overall_score": 2,
+      "summary": {
+        "pros": [
+          "Excellent performance",
+          "Great camera",
+          "Premium design"
+        ],
+        "cons": [
+          "Premium price",
+          "Battery life could be better"
+        ]
+      }
+    },
+    {
+      "title": "Samsung Galaxy A36 review",
+      "overall_score": 2,
+      "summary": {
+        "pros": [
+          "Excellent performance",
+          "Great camera",
+          "Premium design"
+        ],
+        "cons": [
+          "Premium price",
+          "Battery life could be better"
+        ]
+      }
+    }
+  ],
+  "analysis": {
+    "average_score": 2.0,
+    "total_reviews": 5
+  }
+}
