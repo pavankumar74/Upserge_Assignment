@@ -49,22 +49,6 @@ The system provides 4 options:
 3. Renewable Energy Analysis
 4. Exit
 
-## Project Structure
-
-```
-ai-agent-system/
-├── ai_agent.py           # Main application file
-├── environment.py        # Environment execution logic
-├── instruction.py        # Instruction parsing
-├── utils/
-│   ├── logger.py        # Logging configuration
-│   └── helpers.py       # Helper functions
-├── data/
-│   ├── fallback/        # Fallback data files
-│   └── reports/         # Generated reports
-├── tests/               # Test files
-└── requirements.txt     # Project dependencies
-```
 
 ## Implementation Details
 
